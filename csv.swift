@@ -1,6 +1,7 @@
 //
 //  CSV
-//  Modified by Daniel Thorell 2018-02-15
+//  Modified by Mark Price on 08/14/15
+//  Modified by Daniel Thorell 2018-02-15 for swift 4
 //
 
 import Foundation
